@@ -1,0 +1,47 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+p {
+    margin-bottom: 10px }
+p + p {
+    text-indent: 1.5em;
+    margin-top: 10px }
+  
+
+h1, h2 {
+    text-align: center;
+}
+
+div {
+    padding-left: 150px;
+}
+body {
+    background: url(cute-paw.jpg);
+}
+/*sweetpredator*/
+.wrapper1{
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    
+    
+}
+.wrapper1 div{
+      padding: 10px;
+      border: 1px solid silver;
+}
+/*earthquake*/
+.cat1 img{
+    padding: 10px;
+    float: left;
+    height: 200px;
+}
+
+.cat2 img{
+    padding: 10px;
+    float: right;
+    padding-right: 150px;
+    height: 200px;
+}
